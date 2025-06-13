@@ -1,5 +1,4 @@
-# Giữ nguyên nội dung gốc của mọi file ClickOnce
-*.application   binary
-*.manifest      binary
-setup.exe       binary
-Application\ Files/**   binary
+*.application binary
+*.manifest    binary
+*.deploy      binary
+setup.exe     binary
